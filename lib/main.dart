@@ -66,7 +66,7 @@ class HomePage extends StatelessWidget {
                       child: Text('Начать'),
                       style: ButtonStyle(
                         backgroundColor:
-                        MaterialStateProperty.all(Colors.black45),
+                            MaterialStateProperty.all(Colors.black45),
                       ),
                     ),
                   ),
