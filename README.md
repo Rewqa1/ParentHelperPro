@@ -1,6 +1,6 @@
 # Приложение для обмена опытом и советами между родителями “ParentHelperPro”
 
-A new Flutter project.
+#ТП 1-1
 
 ## Getting Started
 
