@@ -1,10 +1,9 @@
 # Приложение для обмена опытом и советами между родителями “ParentHelperPro”
 
-# ТП 1-1
+# ТП-1-1
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Студенты
+Власов Дмитрий Андреевич - 
 
 A few resources to get you started if this is your first Flutter project:
 
