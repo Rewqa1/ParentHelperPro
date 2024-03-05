@@ -1,4 +1,4 @@
-# flutter_totorial
+# Приложение для обмена опытом и советами между родителями “ParentHelperPro”
 
 A new Flutter project.
 
