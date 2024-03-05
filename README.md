@@ -7,11 +7,10 @@
 * [Воскресенский Роман Александрович](https://github.com/RomanVoskres) - 
 * [Бражников Дмитрий Александрович](https://github.com/Rewqa1) - 
 
-A few resources to get you started if this is your first Flutter project:
+## Сервисы
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* [Trello](https://trello.com/b/4lmHC7NQ/моя-доска-trello)
+* [Figma]()
+* [Miro]()
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
