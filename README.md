@@ -2,7 +2,7 @@
 
 # ТП-1-1
 
- Студенты
+ Студенты:
 * [Власов Дмитрий Андреевич](https://github.com/VlasovDmitriy) - Тимлид, РМ
 * [Воскресенский Роман Александрович](https://github.com/RomanVoskres) - 
 * [Бражников Дмитрий Александрович](https://github.com/Rewqa1) - 
