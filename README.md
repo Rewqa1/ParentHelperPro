@@ -3,9 +3,9 @@
 # ТП-1-1
 
 ## Студенты
-* Власов Дмитрий Андреевич -
-* Воскресенский Роман Александрович - 
-* Бражников Дмитрий Александрович -  
+* [Власов Дмитрий Андреевич](https://github.com/VlasovDmitriy) - Тимлид, РМ
+* [Воскресенский Роман Александрович](https://github.com/RomanVoskres) - 
+* [Бражников Дмитрий Александрович](https://github.com/Rewqa1) - 
 
 A few resources to get you started if this is your first Flutter project:
 
