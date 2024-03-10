@@ -13,7 +13,7 @@
 ## Сервисы
 
 * [Trello](https://trello.com/b/4lmHC7NQ/моя-доска-trello)
-* [Figma]()
+* [Figma](https://www.figma.com/file/4Ftn1cvwPBoFoWhoxqBPD2/Untitled?type=design&node-id=0%3A1&mode=design&t=lSqLLSfabQ0m64Qu-1)
 * [Miro]()
 
 ## Документация
