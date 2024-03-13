@@ -22,5 +22,5 @@
 
 ## Презентации проекта
 
-* [Видеобзор ТЗ]()
+* [Видеобзор ТЗ](https://drive.google.com/file/d/13KK55RLRsPEC8HfmfpsU652rveIGM0eD/view?usp=sharing)
 * [Презентация]()
