@@ -12,8 +12,8 @@
 
 ## Сервисы
 
-* [Trello](https://trello.com/b/4lmHC7NQ/моя-доска-trello)
-* [Figma](https://www.figma.com/file/4Ftn1cvwPBoFoWhoxqBPD2/Untitled?type=design&node-id=0%3A1&mode=design&t=lSqLLSfabQ0m64Qu-1)
+* [Trello](https://trello.com/b/4lmHC7NQ/parenthelperpro)
+* [Figma](https://clck.ru/39Qw7L)
 * [Miro](https://miro.com/app/board/uXjVNifVioA=/)
 
 ## Документация
