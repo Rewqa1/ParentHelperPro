@@ -1,3 +1,6 @@
 [submodule "ParentHelperPro-frontend"]
 	path = ParentHelperPro-frontend
 	url = https://github.com/Rewqa1/ParentHelperPro-frontend
+[submodule "backend"]
+	path = ParentHelperPro-backend
+	url = https://github.com/VlasovDmitriy/ParentHelperPro-backend
