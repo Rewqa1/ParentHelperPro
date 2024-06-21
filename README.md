@@ -37,6 +37,6 @@
 ## Защита проекта
 * [Видеопрезентация backend](https://www.youtube.com/watch?v=4HVf1yulSvo)
 * [Презентация на защиту]()
-* [Видеопрезентация frontend]()
-* [Видеогайд на приложение]()
+* [Видеопрезентация frontend](https://drive.google.com/file/d/1hVZYZ8Tm4BxFjNzG1rB-JUuLgQj4EjqW/view)
+* [Видеогайд на приложение](https://drive.google.com/file/d/1hVZYZ8Tm4BxFjNzG1rB-JUuLgQj4EjqW/view)
 * Скачать приложение()
